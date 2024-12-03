@@ -15,8 +15,10 @@ O Listen é um aplicativo feito para a matéria de Projeto (PROI6) do IFSP. O ap
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 ```
-3. pip install -r requirements.txt
-
+3. Instale as dependências listadas no requirements.txt:
+```bash 
+pip install -r requirements.txt
+```
 ## Executando o Aplicativo
 Após a instalação das dependências, você pode executar o aplicativo com:
 ```bash
