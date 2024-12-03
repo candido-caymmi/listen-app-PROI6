@@ -1,4 +1,4 @@
-# Aplicativo Listen – Exemplo
+# Aplicativo Listen – PROI6
 
 O Listen é um aplicativo feito para a matéria de Projeto (PROI6) do IFSP. O aplicativo pretende proporcionar uma experiência adicional ao usufruir músicas, habilitando o usuário a avaliar seus álbuns e singles favoritos.
 
