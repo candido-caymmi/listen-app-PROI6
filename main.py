@@ -6,4 +6,3 @@ def main(page: ft.Page):
     tela_splash.mostrar()
 
 ft.app(target=main)
-    
